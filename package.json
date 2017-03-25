@@ -1,0 +1,25 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "number-in-words.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irwinpratajaya/mocha-chai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irwinpratajaya/mocha-chai/issues"
+  },
+  "homepage": "https://github.com/irwinpratajaya/mocha-chai#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
